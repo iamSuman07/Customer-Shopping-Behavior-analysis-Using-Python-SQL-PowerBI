@@ -13,8 +13,10 @@ The dataset contains 3,900 customer purchases with 18 attributes, including demo
 
 #### The main objectives of this project are to:
 
-Understand customer purchasing behavior.
-Identify important customer segments.
+Understand customer purchasing behavior.  
+
+Identify important customer segments.  
+
 Analyze revenue across different customer groups.
 Discover top-performing products and categories.
 Evaluate subscription and discount behavior.
