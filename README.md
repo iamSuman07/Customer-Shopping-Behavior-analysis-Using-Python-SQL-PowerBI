@@ -10,6 +10,7 @@ The dataset contains 3,900 customer purchases with 18 attributes, including demo
 ***
 
 ### 🎯 Project Objectives
+---
 
 The main objectives of this project are to:
 
@@ -24,6 +25,7 @@ Build an interactive Power BI dashboard for decision-making.
 ---
 
 **📂 Dataset**
+___
 
 The dataset consists of:
 
