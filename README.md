@@ -1,4 +1,4 @@
-**🛍️ Customer Shopping Behavior Analysis**
+# 🛍️ Customer Shopping Behavior Analysis
 📌 Overview
 
 This end-to-end Data Analytics Project analyzes customer shopping behavior to understand purchasing patterns, customer segments, product preferences, subscription behavior, and revenue trends.
@@ -7,7 +7,7 @@ The project covers the complete analytics workflow — from data loading and cle
 
 The dataset contains 3,900 customer purchases with 18 attributes, including demographics, purchase details, subscription status, discounts, ratings, shipping methods, and purchasing frequency.
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 The main objectives of this project are to:
 
