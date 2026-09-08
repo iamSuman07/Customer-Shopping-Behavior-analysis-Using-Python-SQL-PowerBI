@@ -7,7 +7,7 @@ The project covers the complete analytics workflow — from data loading and cle
 
 The dataset contains 3,900 customer purchases with 18 attributes, including demographics, purchase details, subscription status, discounts, ratings, shipping methods, and purchasing frequency.
 
---
+***
 
 ### 🎯 Project Objectives
 
@@ -20,6 +20,8 @@ Discover top-performing products and categories.
 Evaluate subscription and discount behavior.
 Transform raw customer data into meaningful business insights.
 Build an interactive Power BI dashboard for decision-making.
+
+---
 
 **📂 Dataset**
 
