@@ -1,5 +1,7 @@
 # 🛍️ Customer Shopping Behavior Analysis
-<h1>📌 Overview</h1>
+---
+
+## 📌 Overview
 
 This end-to-end Data Analytics Project analyzes customer shopping behavior to understand purchasing patterns, customer segments, product preferences, subscription behavior, and revenue trends.
 
