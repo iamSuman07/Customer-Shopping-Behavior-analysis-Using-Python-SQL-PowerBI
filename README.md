@@ -12,14 +12,13 @@ The dataset contains 3,900 customer purchases with 18 attributes, including demo
 ### 🎯 Project Objectives
 
 #### The main objectives of this project are to:
-
-Understand customer purchasing behavior.<br>  
-Identify important customer segments.<br>   
-Analyze revenue across different customer groups.<br> 
-Discover top-performing products and categories.<br> 
-Evaluate subscription and discount behavior.<br> 
-Transform raw customer data into meaningful business insights.<br> 
-Build an interactive Power BI dashboard for decision-making.
+* Understand customer purchasing behavior.<br>  
+* Identify important customer segments.<br>   
+* Analyze revenue across different customer groups.<br> 
+* Discover top-performing products and categories.<br> 
+* Evaluate subscription and discount behavior.<br> 
+* Transform raw customer data into meaningful business insights.<br> 
+* Build an interactive Power BI dashboard for decision-making.
 
 ###📂 Dataset
 
