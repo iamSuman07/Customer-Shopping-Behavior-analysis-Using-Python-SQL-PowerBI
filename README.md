@@ -19,7 +19,9 @@ The dataset contains 3,900 customer purchases with 18 attributes, including demo
 * Evaluate subscription and discount behavior.
 * Transform raw customer data into meaningful business insights.
 * Build an interactive Power BI dashboard for decision-making.
+* 
 ###📂 Dataset
+
 ####The dataset consists of:
 * Attribute	Details
 * Total Records	3,900
@@ -29,7 +31,23 @@ The dataset contains 3,900 customer purchases with 18 attributes, including demo
 * Behavioral Information	- Discounts, Previous Purchases, Frequency, Rating, Shipping Type
 * Missing Values - 37 values in Review Rating
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| **Python** | Data loading, cleaning, EDA and feature engineering |
+| **Pandas** | Data manipulation and preprocessing |
+| **Jupyter Notebook / VS Code** | Python development and analysis |
+| **PostgreSQL** | SQL-based business analysis |
+| **SQL** | Querying and extracting business insights |
+| **Power BI** | Interactive dashboard and data visualization |
+| **Gamma** | Project presentation |
+| **Git & GitHub** | Version control and project documentation |
+
+> **Note:** This project used **PostgreSQL** for database integration and SQL analysis.
+
+
+###🛠️ Tools & Technologies
 Tool	Purpose
 Python	Data loading, cleaning, EDA and feature engineering
 Pandas	Data manipulation and preprocessing
