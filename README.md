@@ -2,8 +2,7 @@
 
 ### 📌 Overview
 
-This end-to-end Data Analytics Project analyzes customer shopping behavior to understand purchasing patterns, customer segments, product preferences, subscription behavior, and revenue trends.
-
+This end-to-end Data Analytics Project analyzes customer shopping behavior to understand purchasing patterns, customer segments, product preferences, subscription behavior, and revenue trends.<br>
 The project covers the complete analytics workflow — from data loading and cleaning in Python, to business analysis using SQL, and finally interactive visualization using Power BI. A detailed project report and presentation are also included.
 
 The dataset contains 3,900 customer purchases with 18 attributes, including demographics, purchase details, subscription status, discounts, ratings, shipping methods, and purchasing frequency.
@@ -14,10 +13,10 @@ The dataset contains 3,900 customer purchases with 18 attributes, including demo
 #### The main objectives of this project are to:
 * Understand customer purchasing behavior.
 * Identify important customer segments. 
-* Analyze revenue across different customer groups.<br> 
-* Discover top-performing products and categories.<br> 
-* Evaluate subscription and discount behavior.<br> 
-* Transform raw customer data into meaningful business insights.<br> 
+* Analyze revenue across different customer groups.
+* Discover top-performing products and categories.
+* Evaluate subscription and discount behavior.
+* Transform raw customer data into meaningful business insights.
 * Build an interactive Power BI dashboard for decision-making.
 
 ###📂 Dataset
