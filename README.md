@@ -1,83 +1,58 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
+## 📌 Overview
 
-This end-to-end **Data Analytics Project** analyzes customer shopping behavior using transactional retail data to identify purchasing patterns, customer segments, product preferences, subscription behavior, and revenue trends.
+This end-to-end **Data Analytics Project** analyzes customer shopping behavior to understand purchasing patterns, customer segments, product preferences, subscription behavior, and revenue trends.
 
-The project follows a complete data analytics workflow, starting with **data loading and cleaning in Python**, followed by **SQL-based business analysis using MySQL**, and ending with an interactive **Power BI dashboard**.
+The project covers the complete analytics workflow — from **data loading and cleaning using Python**, to **business analysis using MySQL**, and finally **interactive visualization using Power BI**. A detailed project report and presentation are also included.
 
-A detailed project report and presentation are also included as part of the project deliverables.
+The dataset contains **3,900 customer purchases with 18 attributes**, including demographics, purchase details, subscription status, discounts, ratings, shipping methods, and purchasing frequency.
 
 ---
 
 ## 🎯 Project Objectives
 
-The main objectives of this project are:
+The main objectives of this project are to:
 
-- Analyze customer purchasing behavior and spending patterns.
-- Identify different customer segments.
-- Analyze revenue across customer demographics.
-- Identify top-performing products and categories.
-- Understand customer subscription behavior.
-- Analyze the impact of discounts and shipping methods.
-- Generate meaningful business insights from customer data.
-- Build an interactive dashboard for data-driven decision-making.
+- Understand customer purchasing behavior.
+- Identify important customer segments.
+- Analyze revenue across different customer groups.
+- Discover top-performing products and categories.
+- Evaluate subscription and discount behavior.
+- Transform raw customer data into meaningful business insights.
+- Build an interactive Power BI dashboard for decision-making.
 
 ---
 
-## 📊 Dataset
+## 📂 Dataset
 
-The dataset contains **3,900 customer purchase records** with **18 columns**.
+The dataset consists of:
 
-### Key Features
-
-- Customer demographics
-  - Age
-  - Gender
-  - Location
-  - Subscription Status
-
-- Purchase details
-  - Item Purchased
-  - Category
-  - Purchase Amount
-  - Season
-  - Size
-  - Color
-
-- Shopping behavior
-  - Discount Applied
-  - Promo Code Used
-  - Previous Purchases
-  - Frequency of Purchases
-  - Review Rating
-  - Shipping Type
-
-### Dataset Information
-
-| Information | Details |
+| Attribute | Details |
 |---|---|
-| Total Records | 3,900 |
-| Total Columns | 18 |
-| Missing Values | 37 values in Review Rating |
-| Data Type | Customer Transactional Data |
+| **Total Records** | 3,900 |
+| **Total Columns** | 18 |
+| **Customer Information** | Age, Gender, Location, Subscription Status |
+| **Purchase Information** | Item, Category, Purchase Amount, Season, Size, Color |
+| **Behavioral Information** | Discounts, Previous Purchases, Frequency, Rating, Shipping Type |
+| **Missing Values** | 37 values in Review Rating |
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
+| Tool / Technology | Purpose |
 |---|---|
-| **Python** | Data loading, cleaning, EDA and feature engineering |
+| **Python** | Data loading, cleaning, EDA, and feature engineering |
 | **Pandas** | Data manipulation and preprocessing |
 | **Jupyter Notebook / VS Code** | Python development and analysis |
-| **MySQL** | SQL-based business analysis |
+| **MySQL** | SQL-based business analysis and database integration |
 | **SQL** | Querying and extracting business insights |
 | **Power BI** | Interactive dashboard and data visualization |
 | **Gamma** | Project presentation |
 | **Git & GitHub** | Version control and project documentation |
 
-> **Note:** This project used **MySQL** for database integration and SQL analysis.
+> **Note:** This project uses **MySQL** for database integration and SQL-based business analysis.
 
 ---
 
@@ -86,15 +61,15 @@ The dataset contains **3,900 customer purchase records** with **18 columns**.
 ```text
 Raw Dataset
      ↓
-Data Loading using Python
+Python Data Loading
      ↓
 Exploratory Data Analysis (EDA)
      ↓
-Data Cleaning & Preprocessing
+Data Cleaning & Transformation
      ↓
 Feature Engineering
      ↓
-MySQL Database Integration
+MySQL Database
      ↓
 SQL Business Analysis
      ↓
