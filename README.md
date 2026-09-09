@@ -8,7 +8,6 @@ The project covers the complete analytics workflow — from **data loading and c
 
 The dataset contains **3,900 customer purchases with 18 attributes**, including demographics, purchase details, subscription status, discounts, ratings, shipping methods, and purchasing frequency.
 
----
 
 ## 🎯 Project Objectives
 
@@ -22,7 +21,6 @@ The main objectives of this project are to:
 - Transform raw customer data into meaningful business insights.
 - Build an interactive Power BI dashboard for decision-making.
 
----
 
 ## 📂 Dataset
 
@@ -37,7 +35,6 @@ The dataset consists of:
 | **Behavioral Information** | Discounts, Previous Purchases, Frequency, Rating, Shipping Type |
 | **Missing Values** | 37 values in Review Rating |
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -54,7 +51,6 @@ The dataset consists of:
 
 > **Note:** This project uses **MySQL** for database integration and SQL-based business analysis.
 
----
 
 ## 🔄 Project Workflow
 
@@ -78,3 +74,50 @@ Power BI Dashboard
 Business Insights & Recommendations
      ↓
 Project Report & Presentation
+
+
+```
+
+## 📁 Repository Structure(Project Deliverables)
+
+```text
+Customer-Shopping-Behavior-Analysis/
+│
+├── Cleaned Dataset/
+│   └── customer_shopping_behavior.csv
+│
+├── Python EDA & Data Cleaning Notebook/
+│   └── customer_behavior_analysis.ipynb
+│
+├── SQL Business Queries/
+│   └── customer_analysis.sql
+│
+├── Power BI Dashboard/
+│   └── Customer_Behavior_Dashboard.pbix
+│
+├── Project report/
+│   └── Customer_Shopping_Behavior_Analysis_Report.pdf
+│
+├── presentation/
+│   └── Customer_Shopping_Behavior_Analysis.pptx
+│
+├── GitHub Documentation
+└── README.md
+
+```
+
+
+## 👤 Author
+
+### Suman Kumar
+
+**Aspiring Data Analyst**
+
+### 🔗 Connect With Me
+
+* **GitHub:** https://www.linkedin.com/in/suman07/
+* **LinkedIn:** https://github.com/iamSuman07
+---
+
+⭐ If you found this project useful, please consider giving it a **star** on GitHub!
+
